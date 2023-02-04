@@ -1,12 +1,21 @@
 {
   "expo": {
     "name": "solito-nativewind",
-    "slug": "solito-nativewind",
+    "slug": "solito-with-tailwind",
     "version": "1.0.0",
     "scheme": "solito-nativewind",
-    "platforms": ["ios", "android"],
+    "platforms": [
+      "ios",
+      "android"
+    ],
     "ios": {
       "bundleIdentifier": "com.solito.nativewind"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8a47b4af-a7ec-44f1-ae32-1422ff5c2fad"
+      }
+    },
+    "owner": "rahulml2505"
   }
 }
