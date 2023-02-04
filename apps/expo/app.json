@@ -16,6 +16,9 @@
         "projectId": "8a47b4af-a7ec-44f1-ae32-1422ff5c2fad"
       }
     },
-    "owner": "rahulml2505"
+    "owner": "rahulml2505",
+    "android": {
+      "package": "com.solito.nativewind"
+    }
   }
 }
